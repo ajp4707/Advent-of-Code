@@ -4,27 +4,17 @@ With the toboggan login problems resolved, you set off toward the airport. While
 
 Due to the local geology, trees in this area only grow on exact integer coordinates in a grid. You make a map (your puzzle input) of the open squares (.) and trees (#) you can see. For example:
 
-`..##.......`
-
+`..##....... 
 #...#...#..
-
 .#....#..#.
-
 ..#.#...#.#
-
 .#...##..#.
-
 ..#.##.....
-
 .#.#.#....#
-
 .#........#
-
 #.##...#...
-
 #...##....#
-
-.#..#...#.#`
+.#..#...#.# `
 
 These aren't the only trees, though; due to something you read about once involving arboreal genetics and biome stability, the same pattern repeats to the right many times:
 
